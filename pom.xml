@@ -57,6 +57,14 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	
+	<!--
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-core</artifactId>
+    <version>2.12.4</version>
+</dependency>
+	 -->
 
 	<properties>
 		<oauth.version>2.3.5.RELEASE</oauth.version>
